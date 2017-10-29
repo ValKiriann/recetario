@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Sobre mí
+  link: /sobremi/
+- name: Recetas
+  link: /recetas/
+- name: Contacto
+  link: /contacto/
