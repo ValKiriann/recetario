@@ -1,5 +1,5 @@
 ---
-date: 2017-01-06
+date: 2017-11-03
 title: Ternera Strogonoff (Thermomix)
 categories:
   - Ternera
