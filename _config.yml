@@ -2,8 +2,8 @@
 # Site
 
 title: Recetario de ValKiriann
-# url: "https://valkiriann.github.io/recetario/"
-baseurl: "https://valkiriann.github.io/recetario/"
+url: "https://valkiriann.github.io/recetario"
+baseurl: /recetario
 google_analytics_key:
 newsletter_action: "//your-mailchimp-action-url.com"
 disqus_shortname:
