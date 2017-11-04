@@ -24,5 +24,5 @@ recipe:
     4. Incorpora los champiñones troceados, la nata de cocinar, la mostaza, la sal y la pimienta. Programa 5 minutos, Varoma, velocidad cuchara.
     5. Agrega el resultado sobre la carne en la sartén y calienta unos minutos para que esté en su punto. Delicioso.
 ---
-La fuente original de esta receta esta [aquí(http://www.velocidadcuchara.com/strogonoff-de-solomillo-receta-rusa/)
+La fuente original de esta receta esta [aquí](http://www.velocidadcuchara.com/strogonoff-de-solomillo-receta-rusa/)  
 El strogonoff original se hace con carne de buey. La carne de buey ronda unos 50€ el kilo por lo que obviamente yo lo he remplazado por solomillo de ternera o en su defecto solomillo de cerdo
