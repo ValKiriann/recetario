@@ -1,6 +1,6 @@
 ---
 date: 2017-10-30
-title: Crema de Calabacín (thermomix)
+title: Crema de Calabacín (Thermomix)
 categories:
   - Cremas
   - Dieta
