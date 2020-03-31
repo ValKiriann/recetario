@@ -7,7 +7,7 @@ categories:
   - Sin Gluten
   - Sin Lácteos
   - Postres
-featured_image: https://www.natursan.net/wp-content/te-jengibre-canela1.jpg
+featured_image: ../images/IMG_3300.jpg
 recipe:
   servings: 12 pastelitos
   cook: 20 minutos
