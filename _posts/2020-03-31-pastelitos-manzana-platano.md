@@ -1,6 +1,6 @@
 ---
-date: 2018-03-02
-title: Té de Jenjibre, cúrcuma, canela, menta y limón
+date: 2020-03-31
+title: Pastelitos de Manzana y plátano
 categories:
   - Sin Azúcar
   - Sin Edulcorantes
@@ -9,8 +9,8 @@ categories:
   - Postres
 featured_image: https://www.natursan.net/wp-content/te-jengibre-canela1.jpg
 recipe:
-  servings: 4 tazas
-  cook: 10 minutos
+  servings: 12 pastelitos
+  cook: 20 minutos
   ingredients_markdown: |-
     * 1 plátano
     * 2 manzanas
