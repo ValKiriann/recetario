@@ -7,7 +7,7 @@ categories:
   - Sin Gluten
   - Sin Lácteos
   - Postres
-featured_image: ../images/IMG_3300.jpg
+featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/IMG_3300.jpg?raw=true
 recipe:
   servings: 12 pastelitos
   cook: 20 minutos
