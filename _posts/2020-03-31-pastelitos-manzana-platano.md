@@ -7,7 +7,7 @@ categories:
   - Sin Gluten
   - Sin Lácteos
   - Postres
-featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/IMG_3300.jpg?raw=true
+featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-03-31-pastelitos-manzana-platano.jpg?raw=true
 recipe:
   servings: 12 pastelitos
   cook: 20 minutos
@@ -27,4 +27,4 @@ recipe:
     3. Después, añadir al molde y meter al horno a 200 grados, 10-20min (previamente calentado) siempre vigilando!!
     4. Si quieres rellenarlas de crema de cacahuete, chocolate o trocitos de fruta, llena los moldes 1/3, pon el relleno y pon 1/3 más de masa (nunca llenes los moldes pequeños más de 2/3)
 ---
-La fuente original de esta receta esta [aquí](https://www.instagram.com/p/B3gy5x0FcTy/)  
+La fuente original de esta receta esta [aquí](https://www.instagram.com/p/B3gy5x0FcTy/)
