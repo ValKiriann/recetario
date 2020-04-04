@@ -7,7 +7,7 @@ categories:
   - Sin Gluten
   - Sin Lácteos
   - Postres
-featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-03-31-pastelitos-manzana-platano.jpg?raw=true
+featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-03-31-pastelitos-manzana-platano.JPG?raw=true
 recipe:
   servings: 12 pastelitos
   cook: 20 minutos
