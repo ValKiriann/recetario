@@ -2,7 +2,6 @@
 date: 2018-03-02
 title: Té de Jenjibre, cúrcuma, canela, menta y limón
 categories:
-  - Dieta
   - Bebidas
 featured_image: https://www.natursan.net/wp-content/te-jengibre-canela1.jpg
 recipe:

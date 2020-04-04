@@ -2,7 +2,8 @@
 date: 2018-03-02
 title: Gachas de avena con fruta
 categories:
-  - Dieta
+  - Desayunos
+  - Fruta
 featured_image: http://4.bp.blogspot.com/-fH-W8v7STxQ/Vm2mnt46v8I/AAAAAAAABhU/d6UMao4iuJk/s1600/gachas%2Bde%2Bavena.jpg
 recipe:
   servings: 1 porción
