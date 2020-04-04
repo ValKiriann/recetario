@@ -9,7 +9,7 @@ categories:
 featured_image: https://img-global.cpcdn.com/recipes/43b1552e4abb3db0/1502x1064cq70/berenjenas-rellenas-de-atun-thermomix-foto-principal.jpg
 recipe:
   servings: 4 raciones
-  cook: 20 minutos
+  cook: 25 minutos
   ingredients_markdown: |-
     * 2 Berenjenas
     * 30gr AOV
