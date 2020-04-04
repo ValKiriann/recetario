@@ -5,7 +5,7 @@ categories:
   - Pollo
   - Horno
   - Dieta
-featured_image: https://okdiario.com/recetas/img/2017/08/30/cuartos-traseros-de-pollo-al-horno-655x368.jpg
+featured_image: https://okdiario.com/img/recetas/2017/08/30/cuartos-traseros-de-pollo-al-horno.jpg
 recipe:
   servings: 4 raciones
   prep: 20 minutos
