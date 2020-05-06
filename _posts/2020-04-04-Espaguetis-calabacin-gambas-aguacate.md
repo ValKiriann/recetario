@@ -2,8 +2,10 @@
 date: 2020-04-05
 title: Espaguetti de calabación con gambas y aguacate
 categories:
-  - Salsas
-  - Thermomix
+  - Cenas
+  - Sin Gluten
+  - Sin Lácteos
+  - Verdura
 featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-04-04-Espaguetis-calabacin-gambas-aguacate.jpg?raw=true
 recipe:
   servings: 1 raciones

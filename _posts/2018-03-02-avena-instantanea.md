@@ -4,6 +4,8 @@ title: Gachas de avena con fruta
 categories:
   - Desayunos
   - Fruta
+  - Sin Gluten
+  - Sin Lácteos
 featured_image: http://4.bp.blogspot.com/-fH-W8v7STxQ/Vm2mnt46v8I/AAAAAAAABhU/d6UMao4iuJk/s1600/gachas%2Bde%2Bavena.jpg
 recipe:
   servings: 1 porción

@@ -4,6 +4,7 @@ title: Salsa de Berenjena y tomate
 categories:
   - Salsas
   - Thermomix
+  - Verdura
 featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-04-04-salsa-de-berenjena-y-tomate.jpg?raw=true
 recipe:
   servings: 4 raciones

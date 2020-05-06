@@ -4,6 +4,7 @@ title: Lubina al horno
 categories:
   - Pescado
   - Horno
+  - Comidas
 featured_image: http://www.recetasderechupete.com/wp-content/uploads/2017/01/lubina_horno.jpg
 recipe:
   servings: 4 personas

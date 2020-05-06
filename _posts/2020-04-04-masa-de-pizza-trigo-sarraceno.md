@@ -6,6 +6,7 @@ categories:
   - Sin Lácteos
   - Comidas
   - Thermomix
+  - Masas
 featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-04-04-masa-de-pizza-trigo-sarraceno.jpg?raw=true
 recipe:
   servings: 2 raciones
