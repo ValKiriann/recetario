@@ -5,6 +5,7 @@ categories:
   - Legumbres
   - Olla Express
   - Verduras
+  - Comidas
 featured_image: https://hoycomemossano.com/wp-content/uploads/2018/10/lentejas-olla-rapida-II.jpg
 recipe:
   servings: 4 raciones
