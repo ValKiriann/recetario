@@ -3,6 +3,7 @@ date: 2017-10-28
 title: Pollo Tikka Massala
 categories:
   - Pollo
+  - Comidas
   - Internacional
 featured_image: https://www.comedera.com/wp-content/uploads/2012/09/DSC_8812.jpg
 recipe:

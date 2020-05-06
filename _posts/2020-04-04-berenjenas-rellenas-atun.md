@@ -33,4 +33,4 @@ recipe:
     10. Pon las berenjenas en una bandeja o fuente, que pueda ir al horno, con la piel hacia abajo, rellena los huecos con el contenido del vaso y coloca encima una loncha de queso
     11. Gratina en el horno si has puesto queso
 ---
-La fuente original de esta receta esta [aquí](https://cookpad.com/es/recetas/2893399-berenjenas-rellenas-de-atun-thermomix)
+La fuente original de esta receta esta [aquí](http://www.mymomisamess.com/2016/11/pasta-con-berenjenas-y-albahaca-thermomix/)

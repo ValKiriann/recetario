@@ -3,8 +3,8 @@ date: 2017-01-06
 title: Pechugas de pollo en salsa de cebolla (Thermomix)
 categories:
   - Pollo
+  - Comidas
   - Thermomix
-  - Dieta
 featured_image: https://1.bp.blogspot.com/-rpyXJlmb_LE/VK7grVt64PI/AAAAAAABcAU/ORGAOlYjK0c/s1600/IMG_9854.JPG
 recipe:
   servings: 4 personas
