@@ -5,7 +5,7 @@ categories:
   - Sin Azúcar
   - Panificadora
   - Dulces
-featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-05-06-mermelada-de-fresa-con-chia.jpg
+featured_image: https://github.com/ValKiriann/recetario/blob/master/images/posts/2020-05-06-mermelada-de-fresa-con-chia.jpg?raw=true
 recipe:
   servings: 4 raciones
   cook: 120 minutos
